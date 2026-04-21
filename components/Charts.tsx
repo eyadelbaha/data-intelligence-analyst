@@ -1,5 +1,4 @@
 'use client';
-import type { TooltipItem } from 'chart.js';
 import {
   Chart as ChartJS,
   CategoryScale, LinearScale, BarElement, LineElement,
